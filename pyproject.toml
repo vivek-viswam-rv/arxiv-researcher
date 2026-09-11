@@ -5,5 +5,6 @@ description = "Arxiv MCP server"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "arxiv>=4.0.1",
     "fastmcp>=4.0.3",
 ]
